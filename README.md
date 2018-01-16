@@ -1,1 +1,0 @@
-Its a simple bootstrap Admin Template
